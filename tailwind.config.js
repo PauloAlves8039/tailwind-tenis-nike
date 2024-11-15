@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         "sans": ["Poppins", "sans-serif"],
+      },
+      backgroundImage:{
+        "tenis": "url('/src/assets/images/bg.png')"
       }
     },
   },
